@@ -1,4 +1,5 @@
-class
+package com.lti.demos; 
+public class Sample1
 {
-  sop("initiate");
+//  System.out.println("initiate");
 }
